@@ -12,3 +12,7 @@ For images:
 * can also be a file path or name if there is a picture uploaded to github
 
 ![Here is my resume](Fiore Resume.pdf)
+
+<p align="center">
+  <img src="Fiore Resume.pdf" width="50%" alt="Image Description">
+</p>
