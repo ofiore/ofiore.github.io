@@ -11,4 +11,4 @@ For images:
 
 * can also be a file path or name if there is a picture uploaded to github
 
-![Here is my resume](Fiore Resume (3).pdf)
+![Here is my resume](Fiore Resume.pdf)
