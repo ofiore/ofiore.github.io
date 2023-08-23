@@ -16,7 +16,7 @@ def increment(x):
   return x + 1
 ```
 
-<p align="center">
-  <img src="Fiore%20Resume.pdf" width="50%" alt="My resume">
-</p>
+
+<img src="Fiore%20Resume.pdf" width="50%" alt="My resume">
+
 
