@@ -14,5 +14,5 @@ For images:
 ![Here is my resume](Fiore Resume.pdf)
 
 <p align="center">
-  <img src="Fiore Resume.pdf" width="50%" alt="Image Description">
+  <img src="Fiore Resume.pdf" width="50%" alt="My resume">
 </p>
