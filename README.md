@@ -7,7 +7,7 @@ This is my school github page
 [click here for the rendered version](https://ofiore.github.io)
 
 For images:
-![Picture here](link to picture)
+![Picture here](https://static.vecteezy.com/system/resources/previews/000/113/753/original/vector-3d-colorful-math-symbols.jpg)
 
 * can also be a file path or name if there is a picture uploaded to github
 
