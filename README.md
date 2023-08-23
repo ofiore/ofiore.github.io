@@ -2,4 +2,4 @@
 
 This is my school github page
 
-[click here for my github page](https://ofiore.net)
+[click here for my github page](https://github/ofiore.net)
