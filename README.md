@@ -15,10 +15,10 @@ For images:
 def increment(x):
   return x + 1
 ```
-
+![Here is my resume](Fiore_Resume.pdf)
 
 <img src="Fiore_Resume.pdf" width="50%" alt="My resume">
 
-![Here is my resume](Fiore_Resume.pdf)
+
 
 
