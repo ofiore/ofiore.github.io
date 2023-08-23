@@ -17,6 +17,8 @@ def increment(x):
 ```
 
 
-<img src="Fiore%20Resume.pdf" width="50%" alt="My resume">
+<img src="Fiore_Resume.pdf" width="50%" alt="My resume">
+
+![Here is my resume](Fiore_Resume.pdf)
 
 
