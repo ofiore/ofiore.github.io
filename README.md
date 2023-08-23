@@ -6,3 +6,4 @@ This is my school github page
 
 For images:
 ![Picture here](link to picture)
+*can also be a file path or name if there is a picture uploaded to github
